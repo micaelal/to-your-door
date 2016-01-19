@@ -1,0 +1,15 @@
+{
+  "name": "services",
+  "version": "0.0.1",
+  "description": "dummy service layer",
+  "main": "services.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start":"node services.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
